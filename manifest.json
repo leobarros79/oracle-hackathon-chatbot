@@ -1,0 +1,8 @@
+{
+  "runtime":{
+    "majorVersion":"4"
+  },
+  "command": "node index.js",
+  "release": {},
+  "notes": ""
+}
