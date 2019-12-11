@@ -25,7 +25,7 @@ module.exports =
 
             if ((title) && (lang) && (limit) && (order) && (printType)) {
 				var options = {
-					key: "AIzaSyAsyyj247OHz4nFUJHQTHje2I7rf95SmCE",
+					key: "XXXXXXXXX",
 					field: 'title',
 					offset: 0,
 					limit: limit,
